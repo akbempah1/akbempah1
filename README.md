@@ -1,15 +1,63 @@
-# 💫 About Me:
-I’m Afriyie— a PharmD and dual MSc graduate in Finance and Computer Science based in Accra, Ghana.<br><br>I work at the intersection of pharmacy operations, artificial intelligence, financial systems, and public health — building intelligent tools that solve real operational problems in healthcare.<br><br>By day, I manage operations and financial performance across three community pharmacy branches, overseeing inventory systems, revenue optimization, risk control, and workforce coordination.<br><br>By night (and weekends), I build.<br><br>I’m the founder of Aduru Analytics, where I design and develop applied AI systems for pharmacy environments, including:<br><br>🔍 Aduru Analytics — pharmacy intelligence & inventory analytics platform<br><br>🛡️ PharmGuard — anomaly detection & internal loss prevention system<br><br>📊 AdherencePredict — machine learning models for medication adherence prediction<br><br>My research focuses on predictive modeling using pharmacy refill and EHR data, with work accepted for presentation at ICIPAI-26 in San Francisco.<br><br>I’m also an ACCA candidate, strengthening the financial intelligence layer behind the systems I build.<br><br>🧠 What Drives My Work<br><br>I believe the future of pharmacy — especially in emerging markets — will be shaped by:<br><br>Applied machine learning, not theoretical AI<br><br>Financially intelligent healthcare systems<br><br>Operational transparency powered by data<br><br>Clinically grounded software built from real environments<br><br>My code is practical, data-driven, and designed to function inside real pharmacy workflows in West Africa and beyond.<br><br>⚙️ Core Focus Areas<br><br>Healthcare Machine Learning<br><br>Medication Adherence Modeling<br><br>Operational Analytics<br><br>Financial Modeling for Healthcare Systems<br><br>Anomaly & Risk Detection<br><br>Pharmacy Systems Design<br><br>🌍 Long-Term Vision<br><br>To build scalable, AI-powered healthcare infrastructure that improves patient outcomes, strengthens pharmacy businesses, and advances public health systems globally.<br>🔭 Currently building: AI systems for pharmacy operations  <br>📊 Research: Predictive healthcare analytics  <br>⚙️ Stack: Python | Machine Learning | SQL | Data Analytics | Financial Modeling  <br>🌍 Based in: Accra, Ghana 
+# Afriyie Karikari Bempah — Health Data Scientist
 
+**PharmD · MSc Finance · MSc Computer Science · Accra, Ghana**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/afriyiekarikaribempah) 
+> Building AI-powered health intelligence systems for African markets — at the intersection of clinical pharmacy, machine learning, and health systems strengthening.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+---
 
-![](https://github-readme-stats.vercel.app/api?username=akbempah1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akbempah1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbempah1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Live Project
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Patient Survival Predictor](https://img.shields.io/badge/🫀_Live_App-Patient_Survival_Predictor-2a9d8f?style=for-the-badge)](https://patient-survival.streamlit.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-akbempah1.github.io-9c7a3c?style=for-the-badge)](https://akbempah1.github.io)
+[![Aduru Analytics](https://img.shields.io/badge/📊_Aduru_Analytics-aduruanalytics.com-b8955a?style=for-the-badge)](https://aduruanalytics.com)
+
+---
+
+## 📁 10-Project Portfolio
+
+| # | Project | Domain | Key Skills | AUC / R² |
+|---|---------|--------|-----------|----------|
+| 10 | [Patient Survival Prediction ★](https://github.com/akbempah1/patient-survival-prediction) | ML · Healthcare | Random Forest · SHAP · Streamlit | AUC 0.805 |
+| 09 | [NCD Risk Factor Analysis](https://github.com/akbempah1/ncd-risk-factor-analysis) | Health Equity | Logistic Regression · Odds Ratios · NHANES | AUC 0.822 |
+| 08 | [Pharmacy Sales Forecasting](https://github.com/akbempah1/pharmacy-sales-forecasting) | Time Series · BI | Prophet · statsmodels · Inventory Strategy | MAPE 17.6% |
+| 07 | [Malaria Prediction — Africa](https://github.com/akbempah1/malaria-prediction-africa) | ML · Global Health | Multi-API · Random Forest · Regression | R² 0.789 |
+| 06 | [Africa Disease Burden](https://github.com/akbempah1/africa-disease-burden-analysis) | Global Health | WHO API · matplotlib · Ghana Focus | — |
+| 05 | [Credit Risk Scoring](https://github.com/akbempah1/credit-risk-scoring) | ML · Finance | XGBoost · SHAP · Risk Tiers | AUC 0.778 |
+| 04 | [Pharma Stock Portfolio](https://github.com/akbempah1/pharma-stock-portfolio-analysis) | Finance | yfinance · Monte Carlo · Sharpe Ratio | — |
+| 03 | [Hospital Readmissions](https://github.com/akbempah1/hospital-readmissions-prediction) | ML · Healthcare | SMOTE · GridSearchCV · Leakage Detection | AUC 0.634 |
+| 02 | [FDA Adverse Events](https://github.com/akbempah1/fda-adverse-events-analysis) | Healthcare | REST API · FDA FAERS · Pharmacovigilance | — |
+| 01 | [Medicare Drug Spending](https://github.com/akbempah1/medicare-drug-spending-analysis) | Healthcare | pandas · matplotlib · CMS Data | — |
+
+---
+
+## 🛠 Skills
+
+```
+Machine Learning    →  Logistic Regression · Random Forest · XGBoost · SHAP · SMOTE
+Healthcare Data     →  NHANES · BRFSS · CMS Medicare · FDA FAERS · WHO GHO · Stata
+Time Series         →  Prophet · statsmodels · Seasonal Decomposition
+Finance             →  Monte Carlo · Sharpe Ratio · Portfolio Optimization
+Engineering         →  Python · FastAPI · React · TypeScript · PostgreSQL · Streamlit
+Health Economics    →  CEA · BIA · Health Outcomes Modeling · LMIC Policy
+```
+
+---
+
+## 🏥 Current Roles
+
+- **Finance & Operations Manager** — KAM AID Pharmacy Ltd. (3 branches, Greater Accra)
+- **Founder** — [Aduru Analytics](https://aduruanalytics.com) — AI-powered pharmaceutical intelligence for Ghana
+- **PhD Candidate (Pursuing)** — Health Informatics · Pharmaceutical Outcomes · UPitt · UMich
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afriyiekarikaribempah-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/afriyiekarikaribempah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akbempah1.github.io-9c7a3c?style=flat)](https://akbempah1.github.io)
+[![Aduru](https://img.shields.io/badge/Aduru_Analytics-aduruanalytics.com-2a9d8f?style=flat)](https://aduruanalytics.com)
+
+---
+
+*Accra, Ghana · Health Data Science · 2025*
